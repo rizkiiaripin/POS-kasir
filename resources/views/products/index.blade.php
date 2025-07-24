@@ -27,7 +27,7 @@
                         <td>{{ $product->price }}</td>
                         <td>{{ $product->barcode }}</td>
                         <td>{{ $product->stock }}</td>
-                        <td> {{ $product->category_id/ }} </td>
+                        <td> {{ $product->category_id }} </td>
                         <td>
                             <a href="/products/1/edit" class="btn btn-primary btn-sm">Edit</a>
                             <form action="/products/1" method="POST" style="display:inline;">

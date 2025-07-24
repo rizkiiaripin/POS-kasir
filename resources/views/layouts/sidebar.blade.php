@@ -76,7 +76,7 @@
                     </li>
                     <li class="sidebar-item">
                     <a class="sidebar-link "
-                        href="/products" aria-expanded="false">
+                        href="/users" aria-expanded="false">
                         <span>
                             <i class="ti ti-users"></i>
                         </span>
